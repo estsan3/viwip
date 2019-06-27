@@ -1,0 +1,8 @@
+.uploadButton {
+   margin: 15px;
+}
+.checkbok-cell{
+   border: 2px;
+   background-color: blue;
+   opacity: 2px !important;
+}

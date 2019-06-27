@@ -1,0 +1,7 @@
+.pwa-prompt {
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    position: fixed;
+    background-color: #2C3E50 !important;
+}

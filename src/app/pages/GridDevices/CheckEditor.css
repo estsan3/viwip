@@ -1,0 +1,6 @@
+.checkEditor {
+    margin-left: 0px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}

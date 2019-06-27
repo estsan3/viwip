@@ -1,0 +1,35 @@
+.navbar {
+  padding: 10px 16px;
+}
+
+.navbar .navbar-brand {
+  padding: 0;
+}
+
+.navbar .nav-link.active:hover,
+.navbar .navbar-brand.active:hover {
+  color: #00bc8c;
+}
+
+@media (max-width: 767px) {
+  .navbar-collapse {
+    margin-top: 4px;
+  }
+}
+
+.nav-wrapper{
+  background-color: #4e73f4 !important;
+ }
+
+ .responsive-img {
+  width: 150px; 
+  margin-right: 50px !important;
+  border-color:white 
+  
+
+ } 
+ .logoTitle {
+  font-size:38px; 
+  font-weight:400;
+  font-family: 'Open Sans', sans-serif;
+ }
